@@ -12,6 +12,8 @@ Feel free to connect with me via: omarbadawy403@gmail.com
 ---
 
 ### Technologies:
+
+#### With Logos:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) 
@@ -20,8 +22,12 @@ Feel free to connect with me via: omarbadawy403@gmail.com
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![iReport](https://img.shields.io/badge/iReport-5C5C5C?style=for-the-badge&logo=iReport&logoColor=white)
-![Jasper](https://img.shields.io/badge/Jasper-017C87?style=for-the-badge&logo=jasper&logoColor=white)
+
+#### Without Logos:
+- **Java EE** 
+- **Servlets** 
+- **JSP** 
+- **iReport** 
+- **Jasper** 
+- **JDBC** 
+- **JdbcTemplate**
