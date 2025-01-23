@@ -31,3 +31,20 @@ Feel free to connect with me via: omarbadawy403@gmail.com
   <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white" alt="JDBC"/>
   <img src="https://img.shields.io/badge/JdbcTemplate-4479A1?style=for-the-badge&logo=java&logoColor=white" alt="JdbcTemplate"/>
 </p>
+
+### Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omarbadawy-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="50" />
+  </a>
+  <a href="https://www.facebook.com/omar.badawy.56679?locale=ar_AR">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="150" height="50" />
+  </a>
+  <a href="https://www.instagram.com/omar_badawy403/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="150" height="50" />
+  </a>
+  <a href="mailto:omar_shats@yahoo.com">
+    <img src="https://img.shields.io/badge/Yahoo-430297?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo" width="150" height="50" />
+  </a>
+</p>
