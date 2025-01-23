@@ -22,11 +22,11 @@ Feel free to connect with me via: omarbadawy403@gmail.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50" />
 </p>
 <p align="center">
-![Java EE](https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white) 
-![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white) 
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white) 
-![iReport](https://img.shields.io/badge/iReport-4171b2?style=for-the-badge&logo=apache&logoColor=white) 
-![Jasper](https://img.shields.io/badge/Jasper-4171b2?style=for-the-badge&logo=apache&logoColor=white) 
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white) 
-![JdbcTemplate](https://img.shields.io/badge/JdbcTemplate-4479A1?style=for-the-badge&logo=java&logoColor=white)
+  ![Java EE](https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white) 
+  ![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white) 
+  ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white) 
+  ![iReport](https://img.shields.io/badge/iReport-4171b2?style=for-the-badge&logo=apache&logoColor=white) 
+  ![Jasper](https://img.shields.io/badge/Jasper-4171b2?style=for-the-badge&logo=apache&logoColor=white) 
+  ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white) 
+  ![JdbcTemplate](https://img.shields.io/badge/JdbcTemplate-4479A1?style=for-the-badge&logo=java&logoColor=white)
 </p>
