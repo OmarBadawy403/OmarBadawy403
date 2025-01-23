@@ -4,7 +4,7 @@
 
 ### **Programming Languages**  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java SE" width="50" height="50" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java SE" width="50" height="50" />
 </p>
 - **Core Java (SE):** OOP, File Handling  
 
@@ -23,9 +23,9 @@
 ### **Frameworks**  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Framework" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" alt="Spring Boot" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springsecurity/springsecurity-original.svg" alt="Spring Security" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springdata/springdata-original.svg" alt="Spring Data" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original-wordmark.svg" alt="Spring Boot" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springsecurity/springsecurity-original-wordmark.svg" alt="Spring Security" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springdata/springdata-original-wordmark.svg" alt="Spring Data" width="50" height="50" />
 </p>
 - **Spring Framework**  
 - **Spring Boot**  
