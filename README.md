@@ -23,10 +23,10 @@ Feel free to connect with me via: omarbadawy403@gmail.com
 </p>
 
 #### Without Logos:
-- **Java EE**
-- **Servlets**
-- **JSP**
-- **iReport**
-- **Jasper**
-- **JDBC**
-- **JdbcTemplate**
+  <img src="https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java EE" width="50" height="50" />
+  <img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white" alt="Servlets" width="50" height="50" />
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" alt="JSP" width="50" height="50" />
+  <img src="https://img.shields.io/badge/iReport-4171b2?style=for-the-badge&logo=apache&logoColor=white" alt="iReport" width="50" height="50" />
+  <img src="https://img.shields.io/badge/Jasper-4171b2?style=for-the-badge&logo=apache&logoColor=white" alt="Jasper" width="50" height="50" />
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" width="50" height="50" />
+  <img src="https://img.shields.io/badge/JdbcTemplate-4479A1?style=for-the-badge&logo=java&logoColor=white" alt="JdbcTemplate" width="50" height="50" />
