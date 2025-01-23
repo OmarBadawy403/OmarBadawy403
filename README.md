@@ -6,8 +6,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java SE" width="50" height="50" />  
 </p>
-
-- **Core Java (SE):** OOP, File Handling
+- **Core Java (SE):** OOP, File Handling  
 
 ---
 
@@ -15,7 +14,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java EE" width="50" height="50" />
 </p>
-
 - **Java EE**  
 - **Servlets**  
 - **JSP (Java Server Pages)**  
@@ -25,14 +23,16 @@
 ### **Frameworks**  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Framework" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" alt="Spring Boot" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springsecurity/springsecurity-original.svg" alt="Spring Security" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springdata/springdata-original.svg" alt="Spring Data" width="50" height="50" />
 </p>
-
 - **Spring Framework**  
 - **Spring Boot**  
 - **Spring Security**  
 - **Spring Data**  
 - **Spring MVC**  
-- **Spring AOP**  
+- **Spring AOP**
 
 ---
 
@@ -41,7 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="50" height="50" />
 </p>
-
 - **Oracle SQL**  
 - **Oracle PL/SQL**  
 - **MySQL**  
@@ -53,7 +52,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="50" height="50" />
 </p>
-
 - **Hibernate**  
 - **JPA (Java Persistence API)**  
 
@@ -63,7 +61,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/12355833?s=200&v=4" alt="JasperReports" width="50" height="50" />
 </p>
-
 - **iReport Jasper**  
 
 ---
@@ -73,11 +70,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
 </p>
-
 - **Git**  
 - **GitHub**
 
 ---
+
+### **Technologies Without Icons (using Textual Representation):**  
+
+- **JDBC (Java Database Connectivity)**
+- **JdbcTemplate**  
+- **PL/SQL (Procedural Language/Structured Query Language)**  
 
 ## 💬 About Me:
 - **📫 How to reach me:** omarbadawy403@gmail.com  
