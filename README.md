@@ -7,7 +7,7 @@ Feel free to connect with me via: omarbadawy403@gmail.com
 ### Skills:
 - **Java** | **Spring Boot** | **Git** | **MySQL** | **Oracle SQL**
 
-⚡ Fun fact: I'm a flight simulator enthusiast and dream of flying a Cessna 152!
+⚡ Fun fact: I'm a flight simulator enthusiast and dream of flying Cirrus Vision SF50!
 
 ---
 
