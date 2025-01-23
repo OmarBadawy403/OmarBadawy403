@@ -24,10 +24,10 @@ Feel free to connect with me via: omarbadawy403@gmail.com
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 #### Without Logos:
-- **Java EE** 
-- **Servlets** 
-- **JSP** 
-- **iReport** 
-- **Jasper** 
-- **JDBC** 
+- **Java EE**
+- **Servlets**
+- **JSP**
+- **iReport**
+- **Jasper**
+- **JDBC**
 - **JdbcTemplate**
