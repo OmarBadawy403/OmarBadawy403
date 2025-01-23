@@ -36,16 +36,16 @@ Feel free to connect with me via: omarbadawy403@gmail.com
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omarbadawy-dev/">
-    <img src="https://img.icons8.com/ios/452/linkedin.png" alt="LinkedIn" width="50" height="50" />
+    <img src="https://img.icons8.com/fluency/452/linkedin.png" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="https://www.facebook.com/omar.badawy.56679?locale=ar_AR">
-    <img src="https://img.icons8.com/ios/452/facebook.png" alt="Facebook" width="50" height="50" />
+    <img src="https://img.icons8.com/color/452/facebook.png" alt="Facebook" width="50" height="50" />
   </a>
   <a href="https://www.instagram.com/omar_badawy403/">
-    <img src="https://img.icons8.com/ios/452/instagram-new.png" alt="Instagram" width="50" height="50" />
+    <img src="https://img.icons8.com/color/452/instagram-new.png" alt="Instagram" width="50" height="50" />
   </a>
   <a href="mailto:omar_shats@yahoo.com">
-    <img src="https://img.icons8.com/ios/452/yahoo.png" alt="Yahoo" width="50" height="50" />
+    <img src="https://img.icons8.com/color/452/yahoo.png" alt="Yahoo" width="50" height="50" />
   </a>
 </p>
 
