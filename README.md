@@ -34,8 +34,6 @@ Feel free to connect with me via: omarbadawy403@gmail.com
 
 ### Connect with me:
 
-### Connect with me:
-
 <p align="center">
   <a href="https://www.linkedin.com/in/omarbadawy-dev/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="50" height="50" />
@@ -47,7 +45,6 @@ Feel free to connect with me via: omarbadawy403@gmail.com
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="50" height="50" />
   </a>
   <a href="mailto:omar_shats@yahoo.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Yahoo_Logo.svg" alt="Yahoo" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Yahoo_Logo_2023.svg" alt="Yahoo" width="50" height="50" />
   </a>
 </p>
-
