@@ -44,9 +44,7 @@ Feel free to connect with me via: omarbadawy403@gmail.com
   <a href="https://www.instagram.com/omar_badawy403/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="50" height="50" />
   </a>
- <a href="mailto:omarbadawy403@gmail.com">
-  <img src="https://img.icons8.com/fluency/452/gmail.png" alt="Gmail" width="50" height="50" />
-</a>
+ 
 
 
 
