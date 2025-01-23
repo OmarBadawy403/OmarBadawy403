@@ -36,17 +36,16 @@ Feel free to connect with me via: omarbadawy403@gmail.com
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omarbadawy-dev/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="50" height="50" />
+    <img src="https://img.icons8.com/ios/452/linkedin.png" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="https://www.facebook.com/omar.badawy.56679?locale=ar_AR">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="50" height="50" />
+    <img src="https://img.icons8.com/ios/452/facebook.png" alt="Facebook" width="50" height="50" />
   </a>
   <a href="https://www.instagram.com/omar_badawy403/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="50" height="50" />
+    <img src="https://img.icons8.com/ios/452/instagram-new.png" alt="Instagram" width="50" height="50" />
   </a>
   <a href="mailto:omar_shats@yahoo.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Yahoo_Logo_2023.svg" alt="Yahoo" width="50" height="50" />
+    <img src="https://img.icons8.com/ios/452/yahoo.png" alt="Yahoo" width="50" height="50" />
   </a>
 </p>
-
 
