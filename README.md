@@ -45,7 +45,8 @@ Feel free to connect with me via: omarbadawy403@gmail.com
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="50" height="50" />
   </a>
   <a href="mailto:omar_shats@yahoo.com">
-    <img src="https://img.icons8.com/fluency/452/yahoo.png" alt="Yahoo" width="50" height="50" />
-  </a>
+  <img src="https://img.icons8.com/fluency/452/yahoo.png" alt="Yahoo" width="50" height="50" style="filter: invert(23%) sepia(61%) saturate(293%) hue-rotate(285deg) brightness(95%) contrast(94%);" />
+</a>
+
 </p>
 
